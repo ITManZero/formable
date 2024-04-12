@@ -1,20 +1,19 @@
-# Formable
-
-[//]: # (![Formable Logo]&#40;&#41;)
-
-<div class="flex">
-<img width="532" alt="Screenshot 2024-04-12 at 6 07 06 PM" src="https://github.com/ITManZero/formable/assets/73588285/48ea2ce3-c3f8-4c4f-8eb0-5abfe17675ad">
-</div>
-
+# Formable 👾
 
 Formable is a versatile form builder project built to streamline the creation of customizable forms. It offers a
 user-friendly interface and robust functionality to simplify the process of gathering and managing data.
 
+<br>
+<div style="text-align:center">
+<img width="532" alt="Screenshot 2024-04-12 at 6 07 06 PM" src="https://github.com/ITManZero/formable/assets/73588285/48ea2ce3-c3f8-4c4f-8eb0-5abfe17675ad">
+</div>
+<br>
+
 ## Features
 
 - Intuitive form creation
-- Customizable form fields
-- Seamless data collection
+- Form field management
+- Support complex data types
 
 ## Technologies Used
 
