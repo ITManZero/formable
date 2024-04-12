@@ -4,9 +4,9 @@ Formable is a versatile form builder project built to streamline the creation of
 user-friendly interface and robust functionality to simplify the process of gathering and managing data.
 
 <br>
-<div style="text-align:center">
+<p align="center">
 <img width="532" alt="Screenshot 2024-04-12 at 6 07 06 PM" src="https://github.com/ITManZero/formable/assets/73588285/48ea2ce3-c3f8-4c4f-8eb0-5abfe17675ad">
-</div>
+</p>
 <br>
 
 ## Features
